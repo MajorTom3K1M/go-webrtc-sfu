@@ -1,4 +1,4 @@
-module sfu-ws-poc
+module go-webrtc-sfu
 
 go 1.20
 
